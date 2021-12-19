@@ -60,3 +60,4 @@ namespace EF.RazorPage
         }
     }
 }
+//dotnet aspnet-codegenerator razorpage -m EF.RazorPage.Models.Article -dc EF.RazorPage.Models.MyBlogContext -outDir Pages/Blog -udl --referenceScriptLibraries
